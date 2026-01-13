@@ -1,1 +1,1 @@
-# revenue-analysis-hospitality-domain
+# Revenue Analysis Hospitality Domain
