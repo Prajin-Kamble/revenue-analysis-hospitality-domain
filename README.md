@@ -2,7 +2,7 @@
 ## 1. Business problem statements
 AtliQ owns multiple five-star hotels across India and has been operating in the hospitality industry for over 20 years. Recently, due to increased competition and ineffective decision-making, the company has experienced a decline in revenue and market share in the luxury and business hotel segment. To overcome this challenge, the management aims to leverage “Business Intelligence and Data Analytics” to identify performance gaps and take data-driven strategic decisions.
 
-##2. Goal of this dashboard
+## 2. Goal of this dashboard
 The primary goal of this analysis is to evaluate AtliQ overall business performance using key hospitality metrics such as Revenue, Occupancy, RevPAR, ADR, Cancellation Rate, Realisation %, and Customer Review Ratings. The analysis focuses on identifying trends across time, cities, properties, and booking platforms, and generating actionable insights to help the management improve revenue and operational efficiency.
 
 ## 4.	Tech Stack
