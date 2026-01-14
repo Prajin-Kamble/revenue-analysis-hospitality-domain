@@ -55,4 +55,4 @@ Among booking platforms, Logtrip delivers the highest realisation (70.6%) with a
 4.	Focus marketing and inventory allocation toward high-realisation booking platforms such as Logtrip and Direct channels.<br>
 5.	Introduce demand-based promotions during low-occupancy weeks to smooth revenue fluctuations.<br>
 
-![Snapshot of Power BI dashboard][https://github.com/Prajin-Kamble/revenue-analysis-hospitality-domain/blob/main/Snapshot%20of%20the%20dashboard.png]
+![Snapshot of Power BI dashboard](https://github.com/Prajin-Kamble/revenue-analysis-hospitality-domain/blob/main/Snapshot%20of%20the%20dashboard.png)
