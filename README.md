@@ -5,19 +5,19 @@ AtliQ owns multiple five-star hotels across India and has been operating in the 
 ## 2. Goal of this dashboard
 The primary goal of this analysis is to evaluate AtliQ overall business performance using key hospitality metrics such as Revenue, Occupancy, RevPAR, ADR, Cancellation Rate, Realisation %, and Customer Review Ratings. The analysis focuses on identifying trends across time, cities, properties, and booking platforms, and generating actionable insights to help the management improve revenue and operational efficiency.
 
-## 4.	Tech Stack
+## 3.	Tech Stack
 ### The dashboard was built using the following tools and technologies:<br>
 •	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
 •	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
 •	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
-## 5. The key visuals
+## 4. The key visuals
 This revenue analysis dashboard presents a clear overview of hospitality performance using key KPIs like Revenue, RevPAR, Occupancy, ADR, and Realisation. Filters by city, property, room class, and time enable focused analysis. The KPI cards highlight overall stability with minimal week-on-week variation. This helps quickly assess the business’s current revenue health.<br>
 The donut chart shows revenue distribution, where Luxury contributes the majority share compared to Business. The trend line chart tracks RevPAR, ADR, and Occupancy across weeks. These visuals make it easy to see how pricing and demand move together. Overall trends appear steady with minor fluctuations.<br>
 The lower section focuses on operational and property-level performance. Tables compare weekday and weekend metrics and break down results by individual properties and cities. Bar visuals highlight top revenue-generating hotels and booking platforms. This helps identify strong performers and improvement opportunities quickly.
 
-## 6. Insights
+## 5. Insights
 ### 1. Overall Performance Insights
 AtliQ generated a total revenue of 1.69 Billion, with an overall occupancy rate of 57.8%, indicating moderate room utilisation. The Average Daily Rate (ADR) stands at ₹12.70K, while Revenue per Available Room (RevPAR) is ₹7,337, showing that revenue generation is stable but has room for improvement. The cancellation rate is relatively high at 24.8%, which directly impacts realised revenue. Despite this, the realisation rate of 70.1% suggests that a significant portion of bookings are successfully converted into revenue. The average customer review rating is 3.62, indicating acceptable but not exceptional guest satisfaction.<br>
 When comparing weekday vs weekend performance, weekends clearly outperform weekdays. Weekend occupancy is 62.6%, significantly higher than the weekday occupancy of 55.8%. Similarly, weekend RevPAR (₹7,972) and ADR (₹12,725) are slightly higher than weekday values. Realisation also improves marginally on weekends (70.6% vs. 69.9%), indicating stronger demand and better pricing power during weekends.
@@ -48,7 +48,7 @@ Among booking platforms, Logtrip delivers the highest realisation (70.6%) with a
 * Cancellation rates remain high across cities at around ~25%, with Bangalore and Delhi at 25.0%, impacting net realised revenue.<br>
 * Cities with stronger customer satisfaction such as Delhi (3.78 rating) and Hyderabad (3.66 rating) show more stable occupancy and consistent revenue contribution.
 
-## 7. Recommendations
+## 6. Recommendations
 1.	Adopt Dynamic Pricing Strategies to optimise ADR during high-demand periods such as weekends and peak weeks.<br>
 2.	Conduct deeper root-cause analysis for low-performing properties like AtliQ Seasons and AtliQ Grands, especially focusing on poor review ratings.<br>
 3.	Improving guest experience and review ratings will directly enhance platform ranking and booking conversion rates.<br>
